@@ -1,0 +1,5 @@
+[
+  "tests/test_memoize_it.py::TestIt::test_basic",
+  "tests/test_memoize_it.py::TestIt::test_empty",
+  "tests/test_memoize_it.py::TestIt::test_type_error"
+]
